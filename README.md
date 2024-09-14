@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A student at Northwestern University</h3>
 
-- 🌱 I’m currently learning **more about Scalable Software Architectures and DevOps Technologies**
+- 🌱 I’m currently learning **more about AI and LLMs.**
 
 - 📫 How to reach me: **ericlee2026@u.northwestern.edu**
 
