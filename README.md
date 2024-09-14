@@ -5,8 +5,7 @@
 
 - 📫 How to reach me: **ericlee2026@u.northwestern.edu**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1MKsQ-PgUWI9bvevget-vaHoVGeO5A84a/view?usp=sharing](https://drive.google.com/file/d/1MKsQ-PgUWI9bvevget-vaHoVGeO5A84a/view?usp=sharing)
-
+- 📄 Know about my experiences: [https://drive.google.com/file/d/149zDniFLL55ZnVuJ0XNRC5mrAgiT11HF/view?usp=sharing]
 - ⚡ Fun fact: **I love penguins!**
 
 <h3 align="left">Connect with me:</h3>
